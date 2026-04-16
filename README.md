@@ -20,8 +20,7 @@ Un **Architecture Decision Record (ADR)** documenta una decisión arquitectónic
 | [ADR-001](./ADR-001-srp-servicio-notificaciones.md) | Separar el envío de notificaciones del servicio de pedidos | **S** — SRP | ✅ Aceptado |
 | [ADR-002](./ADR-002-ocp-pasarelas-pago.md) | Estrategias extensibles para el procesamiento de pagos | **O** — OCP | ✅ Aceptado |
 | [ADR-003](./ADR-003-dip-repositorio-pedidos.md) | Abstraer la persistencia de pedidos mediante interfaz | **D** — DIP | ✅ Aceptado |
-| [ADR-004](./ADR-004-lsp-tipos-entrega.md) | Tipos de entrega intercambiables en el sistema de seguimiento | **L** — LSP | ✅ Aceptado |
-| [ADR-005](./ADR-005-isp-gestion-usuarios.md) | Segregar la interfaz de usuarios según el rol del actor | **I** — ISP | ✅ Aceptado |
+
 
 ---
 
